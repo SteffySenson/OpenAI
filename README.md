@@ -4,8 +4,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Gopi Shankar S [https://github.com/Gopps95]
+2. Steffy Senson [https://github.com/SteffySenson]
 ## Team Id
 Team id here(You can find it in email)
 ## Link to product walkthrough
